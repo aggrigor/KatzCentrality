@@ -8,7 +8,6 @@ import java.util.Arrays;
 /**Katz Centrality Project - uth
  * 
  * @author Aggeliki Grigoropoulou
- * AEM : 699
  *
  * Spring Semester 2014
  */
